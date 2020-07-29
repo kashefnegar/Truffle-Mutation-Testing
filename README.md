@@ -37,7 +37,7 @@ $ truffle --version
 > use commands below to install universal mutator
 
 ```shell
-$ npm install -g universalmutator
+$ pip install -g universalmutator
 $ mutate
 ```
 
