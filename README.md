@@ -97,8 +97,4 @@ contract('KingOfTheEtherThrone', async (accounts) => {
 	> as you see, in test net we define a variable to contain out contract, here it can be seen in `beforeEach` part as `kingoftheetherthrone`. copy this name. then open main in the project directory and place the name you copied in the first line of main as `contract_name`
 
 ### Step 3
-	> run project using command below:
-
-```shell
-$ python main.py
-```
+	> run main.py using `Pycharm` and `python3.7 
